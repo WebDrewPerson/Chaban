@@ -1,0 +1,117 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	list-style-type: none;
+}
+body{
+	width: 1130px;
+	height: 3000px;
+	background-image: url(../images/11111.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-size: 19px;
+	/*position: fixed;*/
+}
+mark{
+	background: #83C0F9;
+	border-radius: 20px;
+}
+#wrapper{
+	width: 1000px;
+	height: 95px;
+	margin: 2px auto;
+	
+}
+#syte{
+	width: 201px;
+	height: 75px;
+	background-image: url(../images/111111.png);
+	float: left;
+	margin-right: 70px;
+	border-radius: 10px;
+	background-repeat: no-repeat;
+	
+}
+#html{
+	width: 70px;
+	height: 90px;
+	background-image: url(../images/html.png);
+	float: left;
+	margin-right: 70px;
+	border-radius: 14px;
+	background-repeat: no-repeat;
+}
+#css{
+	width: 70px;
+	height: 90px;
+	background-image: url(../images/css.png);
+	float: left;
+	margin-right: 70px;
+	border-radius: 14px;
+	background-repeat: no-repeat;
+}
+#php{
+	width: 70px;
+	height: 90px;
+	background-image: url(../images/php.png);
+	float: left;
+	margin-right: 70px;
+	border-radius: 14px;
+	background-repeat: no-repeat;
+}
+#js{
+	width: 70px;
+	height: 90px;
+	background-image: url(../images/js.png);
+	float: left;
+	margin-right: 70px;
+	border-radius: 14px;
+	background-repeat: no-repeat;
+}
+#syte{
+	width: 250px;
+	height: 90px;
+	background-image: url(../images/syte.png);
+	float: left;
+}
+
+
+
+
+
+
+
+
+#header{
+	margin-top: 20px;
+	text-align: center;
+}
+h1 {
+	color: #051B57;
+}
+
+
+#menu{
+	width: 200px;
+	height: 2900px;
+	
+	float: left;
+	margin-left: 10px;
+}
+
+#content{
+	width: 800px;
+	height: 2900px;
+	float: left;
+	margin-left: 50px;
+	
+}
+
+#one-column li{
+	
+}
+
+.emptily{
+	list-style-type: none;
+}

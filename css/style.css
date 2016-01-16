@@ -1,0 +1,206 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	text-align: center;
+}
+body{
+	background-color: #C8E1F9;
+}
+/*===================  wrepper ======================*/
+#wrepper{
+	width: 1000px;
+	height: 1100px;
+	background-color: #C8E1F9;
+	
+	margin: 4 auto;
+	border-radius: 25px;
+}
+/*===================  header  ======================*/
+#header{
+	width: 1000px;
+	height: 416px;
+	border-radius: 35px 35px 15px 15px;
+	background-image: url(../images/header.jpg);
+	
+}
+
+/*=================== MENU =====================*/
+#menu{
+	width: 996px;
+	height: 40px;
+	border: 2px solid black;
+	border-radius: 15px;
+	background: -moz-linear-gradient(-90deg, #272822 10%, #E9ECEC 90%);
+	background: -wedkit-linear-gradient(-90deg, #272822 10%, #545649 90%);
+	background: -o-linear-gradient(-90deg, #272822 10%, #545649 90%);
+	
+}
+#menu li{
+	display: inline-block;
+	padding-left: 50px;
+	margin-top: 15px;
+}
+#menu a{
+	font-size: 21px;
+	font-style: bold;
+	color: black;
+	font-family: Arial, Tahoma;
+	
+}
+#menu a:hover{
+	font-size: 21px;
+	font-style: bold;
+	color: #006DC2;
+	text-decoration: underline;
+	font-family: Arial, Tahoma;
+	
+}
+
+#html:hover{
+	
+}
+
+/*===================  content  ======================*/
+
+#content{
+	height: 500px;
+	text-align: center;
+	
+}
+
+/*===================  footer  ======================*/
+
+#footer{
+	height: 140px;
+	border-radius: 0 0 60px 60px;
+	background: -moz-linear-gradient(-90deg, #585955 10%, #C8E1F9 90%);
+	background: -wedkit-linear-gradient(-90deg, #585955 10%, #C8E1F9 90%);
+	background: -o-linear-gradient(-90deg, #585955 10%, #C8E1F9 90%);
+}
+#adress{
+	float: left;
+	margin-left: 50px;
+	margin-top: 15px;
+}
+.line-footer{
+	width: 1px;
+	height: 110px;
+	float: left;
+	margin: 2px 50px 0 40px;
+	background-color: black;
+}
+
+#logo{
+	width: 180px;
+	height: 40px;
+	float: left;
+	
+	margin: 44px 50px 0 53px ;
+
+}
+#logo a {
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+}
+#vk{
+	width: 30px;
+	height: 30px;
+	background-image: url(../images/vk.png);
+	border-radius: 6px;
+}
+#facebook{
+	width: 30px;
+	height: 30px;
+	background-image: url(../images/facebook.png);
+	border-radius: 6px;
+}
+#ok{
+	width: 30px;
+	height: 30px;
+	background-image: url(../images/ok.png);
+	border-radius: 6px;
+}
+#skype{
+	width: 30px;
+	height: 30px;
+	background-image: url(../images/skype.png);
+	border-radius:  6px;
+}
+#viber{
+	width: 30px;
+	height: 30px;
+	background-image: url(../images/viber.png);
+	border-radius: 6px;
+}
+
+#feedback a{
+	float: left;
+	padding: 15px 0 0 26px;
+	color: black;
+	font-size: 19px;
+	position: relative;
+}
+#coll{
+ 	float: right;
+ 	margin-right: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
